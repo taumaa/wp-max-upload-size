@@ -1,0 +1,1 @@
+# wp-max-upload-size
